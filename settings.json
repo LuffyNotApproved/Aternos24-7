@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "LuffywasmyDaddy",
+    "username": "LuffyIsMyDaddy",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "featherback.aternos.host",
+    "ip": "bvssmp-xl8d.aternos.me",
     "port": 63664,
     "version": "",
     "try-creative": false
