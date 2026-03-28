@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "driftfish.aternos.host",
+    "ip": "featherback.aternos.host",
     "port": 63664,
     "version": "",
     "try-creative": false
